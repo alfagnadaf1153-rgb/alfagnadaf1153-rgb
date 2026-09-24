@@ -59,7 +59,7 @@ I'm focused on strengthening my fundamentals in **Python, Data Structures & Algo
 
 ## 🤝 Connect With Me
 
-- 🌐 **Portfolio:** https://portfolio-a-cyan.vercel.app/
+- 🌐 **Portfolio:** https://alfagnadaf1153-rgb.github.io/portfolio-a/
 - 💼 **LinkedIn:** https://www.linkedin.com/in/alfa-g-nadaf
 - 📧 **Email:** alfagnadaf1153@gmail.com
 
